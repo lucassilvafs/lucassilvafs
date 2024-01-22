@@ -3,6 +3,8 @@
 
 Stacks:
 
+Java 
+
 Back-End
 
 Java Java TypeScript NodeJs Express MySql PostgreSQL Sequelize MongoDB Java
