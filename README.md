@@ -1,4 +1,4 @@
-t<h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
+<h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
 - 👋 &nbsp; Oi, meu nome é Lucas Silva.
 - 🤔 &nbsp; Desde a infância sempre tive contato com tecnologia, minha curiosidade e interesse por essa área me fez desenvolver um hábito de estar sempre buscando algo novo para aprender.
