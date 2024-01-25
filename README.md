@@ -23,6 +23,9 @@
   <a href="https://en.wikipedia.org/wiki/JavaScript">
     <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </a>
+  <a href="https://nextjs.org/">
+    <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg">
+  </a>
 </p>
 <br>
 
