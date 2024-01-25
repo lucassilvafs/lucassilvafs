@@ -44,7 +44,7 @@
     <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   </a>
   <a href="https://sequelize.org/">
-    <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg">
+    <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
   </a>
   <a href="https://www.mongodb.com/">
     <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
@@ -58,7 +58,7 @@
     <img align="center" alt="React Testing Library" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
   <a href="https://expo.dev/">
-    <img align="center" alt="Jest" height="40" width="50" src="https://www.svgrepo.com/show/353722/expo.svg">
+    <img align="center" alt="Jest" height="40" width="50" src="https://www.svgrepo.com/show/373753/light-expo.svg">
   </a>
 </p>
 <br>
