@@ -1,4 +1,4 @@
-<h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
+t<h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
 - 👋 &nbsp; Oi, meu nome é Lucas Silva.
 - 🤔 &nbsp; Desde a infância sempre tive contato com tecnologia, minha curiosidade e interesse por essa área me fez desenvolver um hábito de estar sempre buscando algo novo para aprender.
@@ -24,7 +24,7 @@
     <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </a>
   <a href="https://nextjs.org/">
-    <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg">
+    <img align="center" alt="Next" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg">
   </a>
 </p>
 <br>
