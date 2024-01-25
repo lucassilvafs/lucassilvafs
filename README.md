@@ -52,7 +52,7 @@
 </p>
 <br>
 
-***Tests***
+***Testes***
 <p align="left">
   <a href="https://testing-library.com/">
     <img align="center" alt="React Testing Library" height="40" width="50" src="https://testing-library.com/img/octopus-64x64.png">
@@ -66,7 +66,7 @@
 </p>
 <br>
 
-***Others***
+***Outros***
 <p align="left">
   <a href="https://git-scm.com/">
     <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
