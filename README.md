@@ -24,7 +24,7 @@
     <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </a>
   <a href="https://reactnative.dev/">
-    <img align="center" alt="JavaScript" height="40" width="50" src="https://giovanidacruz.com.br/wp-content/uploads/2022/11/react.png">
+    <img align="center" alt="JavaScript" height="40" width="60" src="https://giovanidacruz.com.br/wp-content/uploads/2022/11/react.png">
   </a>
 </p>
 <br>
