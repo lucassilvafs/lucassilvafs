@@ -68,13 +68,13 @@
 
 ***Outros***
 <p align="left">
+  <a href="https://www.docker.com/">
+    <img align="center" alt="Docker" height="40" width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png">
+  </a>
   <a href="https://git-scm.com/">
     <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </a>
   <a href="https://en.wikipedia.org/wiki/Linux">
     <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  </a>
-  <a href="https://www.docker.com/">
-    <img align="center" alt="Docker" height="40" width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png">
   </a>
 </p>
