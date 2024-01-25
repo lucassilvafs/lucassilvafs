@@ -24,7 +24,7 @@
     <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </a>
   <a href="https://reactnative.dev/">
-    <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png">
+    <img align="center" alt="JavaScript" height="40" width="50" src="https://w7.pngwing.com/pngs/363/962/png-transparent-react-native-hd-logo.png">
   </a>
 </p>
 <br>
