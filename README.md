@@ -46,12 +46,6 @@
   <a href="https://www.mongodb.com/">
     <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   </a>
-  <a href="https://getbootstrap.com/">
-    <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  </a>
-  <a href="https://trello.com/">
-    <img align="center" alt="Trello" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-  </a>
 </p>
 
 <p align="left">
@@ -84,6 +78,12 @@
   </a>
   <a href="https://en.wikipedia.org/wiki/Linux">
     <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  </a>
+  <a href="https://trello.com/">
+    <img align="center" alt="Trello" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   </a>
 </p>
 
