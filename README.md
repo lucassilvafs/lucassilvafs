@@ -6,7 +6,6 @@
 
 **Stacks:**
 
-***Front-End***
 <p align="left">
   <a href="https://reactjs.org/">
     <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
@@ -26,11 +25,6 @@
   <a href="https://nextjs.org/">
     <img align="center" alt="Next" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   </a>
-</p>
-<br>
-
-***Back-End***
-<p align="left">
   <a href="https://www.python.org/">
     <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   </a>
@@ -53,21 +47,25 @@
     <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   </a>
 </p>
-<br>
-
-***Mobile***
 <p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="40"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="40"/> 
+  </a>
   <a href="https://reactnative.dev/">
-    <img align="center" alt="React Testing Library" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="React Native" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
   <a href="https://expo.dev/">
     <img align="center" alt="Jest" height="40" width="50" src="https://www.svgrepo.com/show/373753/light-expo.svg">
   </a>
-</p>
-<br>
-
-***Testes***
-<p align="left">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="40"/> 
+  </a>
   <a href="https://testing-library.com/">
     <img align="center" alt="React Testing Library" height="40" width="50" src="https://testing-library.com/img/octopus-64x64.png">
   </a>
@@ -77,11 +75,6 @@
   <a href="https://mochajs.org/">
     <img align="center" alt="Mocha" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
   </a>
-</p>
-<br>
-
-***Outros***
-<p align="left">
   <a href="https://git-scm.com/">
     <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </a>
