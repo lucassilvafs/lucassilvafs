@@ -102,7 +102,7 @@
 
 </br>
 
-<div align="center">
+<div align="left">
   <table border="0">
     <tr>
       <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucassilvafs&count_private=true&show_icons=true&theme=transparent&hide_border=true" /></td>
