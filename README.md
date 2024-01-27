@@ -105,8 +105,8 @@
 <div align="left">
   <table border="0">
     <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucassilvafs&count_private=true&show_icons=true&theme=transparent&hide_border=true" /></td>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassilvafs&langs_count=6&theme=transparent&hide_border=true&layout=donut" /></td>
+      <td><img align="center" src="https://github-readme-stats-gules-mu.vercel.app/api?username=lucassilvafs&count_private=true&show_icons=true&theme=transparent&hide_border=true" /></td>
+      <td><img align="center" src="https://github-readme-stats-gules-mu.vercel.app/api/top-langs/?username=lucassilvafs&langs_count=6&theme=transparent&hide_border=true&layout=donut" /></td>
     </tr>
   </table>
 </div>
