@@ -99,3 +99,10 @@
     <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   </a>
 </p>
+
+</br>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucassilvafs&count_private=true&show_icons=true&theme=radical&hide_border=true" /></td>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassilvafs&langs_count=6&theme=radical&hide_border=true&layout=donut" /></td>
+</div>
